@@ -178,7 +178,7 @@ nome("Aquila", "Morais")//não vai printar nada, pq a função só retorna
 console.log(nome("Aquila", "Morais"))//assim printa
 
 // arrow functions
-const function3 = (a,b) => {
+const function3 = (a,b) => {//parece varíavel, só que faz função
     return a+b
 }
 const function3simples = (a,b) => a + b
